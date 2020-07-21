@@ -1,0 +1,207 @@
+﻿Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,CUSIP,Exchange,Location,Currency,Market Currency
+CSL,CSL LTD,Equity,7.77,282.70,"575,544.00","162,706,288.80","162,706,288.80",Health Care,6185495,AU000000CSL8,S61854956,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CBA,COMMONWEALTH BANK OF AUSTRALIA,Equity,7.71,71.99,"2,243,988.00","161,544,696.12","161,544,696.12",Financials,6215035,AU000000CBA7,S62150354,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BHP,BHP BILLITON LTD,Equity,6.84,38.38,"3,734,210.00","143,318,979.80","143,318,979.80",Materials,6144690,AU000000BHP4,S61446902,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WBC,WESTPAC BANKING CORPORATION CORP,Equity,3.86,17.68,"4,576,834.00","80,918,425.12","80,918,425.12",Financials,6076146,AU000000WBC1,S60761467,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NAB,NATIONAL AUSTRALIA BANK LTD,Equity,3.44,17.81,"4,049,755.00","72,126,136.55","72,126,136.55",Financials,6624608,AU000000NAB4,S66246083,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WES,WESFARMERS LTD,Equity,3.17,46.20,"1,436,319.00","66,357,937.80","66,357,937.80",Consumer Discretionary,6948836,AU000000WES1,S69488369,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ANZ,AUSTRALIA AND NEW ZEALAND BANKING,Equity,3.13,18.25,"3,593,014.00","65,572,505.50","65,572,505.50",Financials,6065586,AU000000ANZ3,S60655867,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WOW,WOOLWORTHS LTD,Equity,2.97,38.89,"1,599,880.00","62,219,333.20","62,219,333.20",Consumer Staples,6981239,AU000000WOW2,S69812394,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MQG,MACQUARIE GROUP LTD DEF,Equity,2.48,124.38,"418,149.00","52,009,372.62","52,009,372.62",Financials,B28YTC2,AU000000MQG1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TLS,TELSTRA CORPORATION LTD,Equity,2.44,3.40,"15,057,506.00","51,195,520.40","51,195,520.40",Communication,6087289,AU000000TLS2,S60872892,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RIO,RIO TINTO LTD,Equity,2.36,105.11,"469,968.00","49,398,336.48","49,398,336.48",Materials,6220103,AU000000RIO1,S62201033,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TCL,TRANSURBAN GROUP,Equity,2.25,13.64,"3,463,013.00","47,235,497.32","47,235,497.32",Industrials,6200882,AU000000TCL6,S62008826,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+FMG,FORTESCUE METALS GROUP LTD,Equity,1.67,16.26,"2,148,602.00","34,936,268.52","34,936,268.52",Materials,6086253,AU000000FMG4,S60862539,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NCM,NEWCREST MINING LTD,Equity,1.62,33.01,"1,025,497.00","33,851,655.97","33,851,655.97",Materials,6637101,AU000000NCM7,S66371014,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GMG,GOODMAN GROUP UNITS LTD,Equity,1.56,15.82,"2,064,708.00","32,663,680.56","32,663,680.56",Real Estate,B03FYZ4,AU000000GMG2,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+COL,COLES GROUP LTD,Equity,1.30,17.91,"1,523,251.00","27,281,425.41","27,281,425.41",Consumer Staples,BYWR0T5,AU0000030678,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WPL,WOODSIDE PETROLEUM LTD,Equity,1.16,20.10,"1,210,901.00","24,339,110.10","24,339,110.10",Energy,6979728,AU000000WPL2,980228100,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BXB,BRAMBLES LTD,Equity,1.02,11.09,"1,922,917.00","21,325,149.53","21,325,149.53",Industrials,B1FJ0C0,AU000000BXB1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ASX,ASX LTD,Equity,0.99,84.13,"245,667.00","20,667,964.71","20,667,964.71",Financials,6129222,AU000000ASX7,S61292223,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ALL,ARISTOCRAT LEISURE LTD,Equity,0.98,25.39,"810,159.00","20,569,937.01","20,569,937.01",Consumer Discretionary,6253983,AU000000ALL7,S62539838,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+APT,AFTERPAY LTD,Equity,0.96,69.49,"288,133.00","20,022,362.17","20,022,362.17",Information Technology,BF5L8B9,AU000000APT1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SHL,SONIC HEALTHCARE LTD,Equity,0.91,31.54,"602,900.00","19,015,466.00","19,015,466.00",Health Care,6821120,AU000000SHL7,S68211200,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AMC,AMCOR LTD,Equity,0.87,15.36,"1,181,864.00","18,153,431.04","18,153,431.04",Materials,6066608,AU000000AMC4,S60666088,ASX - All Markets,United States,Australian Dollar,Australian Dollar
+A2M,A2 MILK LTD,Equity,0.86,19.28,"938,725.00","18,098,618.00","18,098,618.00",Consumer Staples,BWSRTS7,NZATME0002S8,--,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+QBE,QBE INSURANCE GROUP LTD,Equity,0.82,9.26,"1,862,287.00","17,244,777.62","17,244,777.62",Financials,6715740,AU000000QBE9,S67157404,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+APA,APA GROUP UNITS,Equity,0.79,11.09,"1,496,559.00","16,596,839.31","16,596,839.31",Utilities,6247306,AU000000APA1,S62473061,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IAG,INSURANCE AUSTRALIA GROUP LTD,Equity,0.78,5.57,"2,931,707.00","16,329,607.99","16,329,607.99",Financials,6271026,AU000000IAG3,S62710264,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+COH,COCHLEAR LTD,Equity,0.77,192.92,"83,347.00","16,079,303.24","16,079,303.24",Health Care,6211798,AU000000COH5,S62117981,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+JHX,JAMES HARDIE INDUSTRIES CDI PLC,Equity,0.75,27.85,"561,692.00","15,643,122.20","15,643,122.20",Materials,B60QWJ2,AU000000JHX1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SYD,SYDNEY AIRPORT UNITS LTD,Equity,0.74,5.40,"2,865,664.00","15,474,585.60","15,474,585.60",Industrials,B70DWB2,AU000000SYD9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RHC,RAMSAY HEALTH CARE LTD,Equity,0.69,63.30,"229,531.00","14,529,312.30","14,529,312.30",Health Care,6041995,AU000000RHC8,S60419959,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SUN,SUNCORP GROUP LTD,Equity,0.69,9.05,"1,598,863.00","14,469,710.15","14,469,710.15",Financials,6585084,AU000000SUN6,S65850844,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NST,NORTHERN STAR RESOURCES LTD,Equity,0.68,15.15,"937,932.00","14,209,669.80","14,209,669.80",Materials,6717456,AU000000NST8,S67174565,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SCG,SCENTRE GROUP,Equity,0.66,2.10,"6,576,283.00","13,810,194.30","13,810,194.30",Real Estate,BLZH0Z7,AU000000SCG8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AGL,AGL ENERGY LTD,Equity,0.66,17.40,"793,176.00","13,801,262.40","13,801,262.40",Utilities,BSS7GP5,AU000000AGL7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+EVN,EVOLUTION MINING LTD,Equity,0.64,6.19,"2,162,554.00","13,386,209.26","13,386,209.26",Materials,B3X0F91,AU000000EVN4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+S32,SOUTH32 LTD,Equity,0.64,2.17,"6,161,537.00","13,370,535.29","13,370,535.29",Materials,BWSW5D9,AU000000S320,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RMD,RESMED CDI INC,Equity,0.62,28.43,"455,070.00","12,937,640.10","12,937,640.10",Health Care,6221667,AU000000RMD6,S62216676,ASX - All Markets,United States,Australian Dollar,Australian Dollar
+XRO,XERO LTD,Equity,0.60,91.01,"138,535.00","12,608,070.35","12,608,070.35",Information Technology,B8P4LP4,NZXROE0001S2,--,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+ORG,ORIGIN ENERGY LTD,Equity,0.60,5.64,"2,232,864.00","12,593,352.96","12,593,352.96",Energy,6214861,AU000000ORG5,S62148614,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+DXS,DEXUS UNITS,Equity,0.60,9.07,"1,382,971.00","12,543,546.97","12,543,546.97",Real Estate,B033YN6,AU000000DXS1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+STO,SANTOS LTD,Equity,0.55,5.16,"2,249,033.00","11,605,010.28","11,605,010.28",Energy,6776703,AU000000STO6,S67767038,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AZJ,AURIZON HOLDINGS LTD,Equity,0.54,4.70,"2,417,636.00","11,362,889.20","11,362,889.20",Industrials,B87CVM3,AU000000AZJ1,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MFG,MAGELLAN FINANCIAL GROUP LTD,Equity,0.54,60.25,"186,884.00","11,259,761.00","11,259,761.00",Financials,B015YX4,AU000000MFG4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MGR,MIRVAC GROUP UNITS,Equity,0.50,2.11,"4,980,741.00","10,509,363.51","10,509,363.51",Real Estate,6161978,AU000000MGR9,S61619789,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GPT,GPT GROUP STAPLED UNITS,Equity,0.49,4.14,"2,465,591.00","10,207,546.74","10,207,546.74",Real Estate,6365866,AU000000GPT8,S63658660,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MPL,MEDIBANK PRIVATE LTD,Equity,0.49,2.94,"3,471,536.00","10,206,315.84","10,206,315.84",Financials,BRTNNQ5,AU000000MPL3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TWE,TREASURY WINE ESTATES LTD,Equity,0.48,10.98,"917,506.00","10,074,215.88","10,074,215.88",Consumer Staples,B61JC67,AU000000TWE9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SEK,SEEK LTD,Equity,0.46,21.69,"447,401.00","9,704,127.69","9,704,127.69",Communication,B0767Y3,AU000000SEK6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SGP,STOCKLAND UNITS LTD,Equity,0.46,3.18,"3,003,437.00","9,550,929.66","9,550,929.66",Real Estate,6850856,AU000000SGP0,S68508563,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+LLC,LENDLEASE GROUP STAPLED UNITS,Equity,0.46,11.45,"833,693.00","9,545,784.85","9,545,784.85",Real Estate,6512004,AU000000LLC3,S65120040,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ORI,ORICA LTD,Equity,0.42,17.07,"512,935.00","8,755,800.45","8,755,800.45",Materials,6458001,AU000000ORI1,S64580012,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ALD,CALTEX AUSTRALIA LTD,Equity,0.41,27.02,"317,565.00","8,580,606.30","8,580,606.30",Energy,BM91201,AU0000088338,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+QAN,QANTAS AIRWAYS LTD,Equity,0.41,3.63,"2,362,130.00","8,574,531.90","8,574,531.90",Industrials,6710347,AU000000QAN2,S67103473,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CPU,COMPUTERSHARE LTD,Equity,0.41,13.52,"628,601.00","8,498,685.52","8,498,685.52",Information Technology,6180412,AU000000CPU5,S61804126,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TAH,TABCORP HOLDINGS LTD,Equity,0.40,3.27,"2,578,586.00","8,431,976.22","8,431,976.22",Consumer Discretionary,6873262,AU000000TAH8,S68732627,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SAR,SARACEN MINERAL HOLDINGS LTD,Equity,0.39,5.89,"1,386,000.00","8,163,540.00","8,163,540.00",Materials,6168838,AU000000SAR9,S61688388,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ALX,MACQUARIE ATLAS ROADS GROUP UNITS,Equity,0.37,6.48,"1,196,887.00","7,755,827.76","7,755,827.76",Industrials,BZ03TZ1,AU0000013559,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AMP,AMP LTD,Equity,0.36,1.74,"4,345,851.00","7,561,780.74","7,561,780.74",Financials,6709958,AU000000AMP6,S67099580,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BSL,BLUESCOPE STEEL LTD,Equity,0.35,11.58,"639,332.00","7,403,464.56","7,403,464.56",Materials,6533232,AU000000BSL0,S65332322,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AUD,AUD CASH,Cash,0.34,100.00,"7,216,295.00","7,216,295.18","7,216,295.18",Cash and/or Derivatives,--,--,--,--,Australia,Australian Dollar,Australian Dollar
+OSH,OIL SEARCH LTD,Equity,0.33,3.01,"2,320,983.00","6,986,158.83","6,986,158.83",Energy,6657604,PG0008579883,S66576042,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+VCX,VICINITY CENTRES LTD,Equity,0.32,1.36,"4,956,020.00","6,740,187.20","6,740,187.20",Real Estate,BY7QXS7,AU000000VCX7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+QUB,QUBE HOLDINGS LTD,Equity,0.32,2.78,"2,399,317.00","6,670,101.26","6,670,101.26",Industrials,B1L4BC6,AU000000QUB5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+REA,REA GROUP LTD,Equity,0.31,105.28,"62,050.00","6,532,624.00","6,532,624.00",Communication,6198578,AU000000REA9,S61985784,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NXT,NEXTDC LTD,Equity,0.30,10.95,"580,971.00","6,361,632.45","6,361,632.45",Information Technology,B5LMKP4,AU000000NXT8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ANN,ANSELL LTD,Equity,0.30,38.88,"163,596.00","6,360,612.48","6,360,612.48",Health Care,6286611,AU000000ANN9,S62866116,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+JBH,JB HI-FI LTD,Equity,0.30,42.87,"144,947.00","6,213,877.89","6,213,877.89",Consumer Discretionary,6702623,AU000000JBH7,S67026237,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BLD,BORAL LTD,Equity,0.28,3.73,"1,562,193.00","5,826,979.89","5,826,979.89",Materials,6218670,AU000000BLD2,S62186705,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CHC,CHARTER HALL GROUP STAPLED UNITS,Equity,0.28,9.82,"593,204.00","5,825,263.28","5,825,263.28",Real Estate,B15F6S6,AU000000CHC0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+DMP,DOMINOS PIZZA ENTERPRISES LTD,Equity,0.28,72.91,"79,871.00","5,823,394.61","5,823,394.61",Consumer Discretionary,B07SFG7,AU000000DMP0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CWY,CLEANAWAY WASTE MANAGEMENT LTD,Equity,0.27,2.19,"2,616,844.00","5,730,888.36","5,730,888.36",Industrials,BYQ8KW7,AU000000CWY3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CAR,CARSALES.COM LTD,Equity,0.27,18.24,"307,177.00","5,602,908.48","5,602,908.48",Communication,BW0BGZ3,AU000000CAR3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CCL,COCA-COLA AMATIL LTD,Equity,0.26,8.54,"643,626.00","5,496,566.04","5,496,566.04",Consumer Staples,6123451,AU000000CCL2,S61234514,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Equity,0.26,33.68,"160,269.00","5,397,859.92","5,397,859.92",Health Care,6423968,NZFAPE0001S2,S64239684,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+AWC,ALUMINA LTD,Equity,0.26,1.78,"3,008,154.00","5,369,554.89","5,369,554.89",Materials,6954985,AU000000AWC3,S69549855,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+OZL,OZ MINERALS LTD,Equity,0.25,12.68,"412,950.00","5,236,206.00","5,236,206.00",Materials,6397825,AU000000OZL8,S63978258,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ALU,ALTIUM LTD,Equity,0.24,32.90,"155,178.00","5,105,356.20","5,105,356.20",Information Technology,6167697,AU000000ALU8,S61676979,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SKI,SPARK INFRASTRUCTURE,Equity,0.24,2.30,"2,196,875.00","5,052,812.50","5,052,812.50",Utilities,B0T9JZ5,AU000000SKI7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MIN,MINERAL RESOURCES LTD,Equity,0.23,23.75,"204,040.00","4,845,950.00","4,845,950.00",Materials,B17ZL56,AU000000MIN4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+APX,APPEN LTD,Equity,0.23,35.77,"134,944.00","4,826,946.88","4,826,946.88",Information Technology,BTPJH25,AU000000APX3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ILU,ILUKA RESOURCES LTD,Equity,0.23,8.98,"537,043.00","4,822,646.14","4,822,646.14",Materials,6957575,AU000000ILU1,S69575751,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ALQ,ALS LTD,Equity,0.22,7.62,"613,967.00","4,678,428.54","4,678,428.54",Industrials,B86SZR5,AU000000ALQ6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BEN,BENDIGO AND ADELAIDE BANK LTD,Equity,0.22,6.78,"676,122.00","4,584,107.16","4,584,107.16",Financials,6091280,AU000000BEN6,S60912805,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IPL,INCITEC PIVOT LTD,Equity,0.22,1.88,"2,434,321.00","4,564,351.88","4,564,351.88",Materials,6673042,AU000000IPL1,S66730425,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CWN,CROWN RESORTS LTD,Equity,0.19,8.98,"448,559.00","4,028,059.82","4,028,059.82",Consumer Discretionary,B29LCJ0,AU000000CWN6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AST,AUSNET SERVICES,Equity,0.19,1.76,"2,280,374.00","4,024,860.11","4,024,860.11",Utilities,BPXR7J0,AU000000AST5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WTC,WISETECHGLOBAL PTY LTD,Equity,0.19,21.17,"187,337.00","3,965,924.29","3,965,924.29",Information Technology,BZ8GX83,AU000000WTC3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TPG,TPG TELECOM LTD,Equity,0.18,8.09,"470,940.00","3,809,904.60","3,809,904.60",Communication,BMB2257,AU0000090128,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SDF,STEADFAST GROUP LTD,Equity,0.17,3.35,"1,087,094.00","3,641,764.90","3,641,764.90",Financials,BCT5FD7,AU000000SDF8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RRL,REGIS RESOURCES LTD,Equity,0.17,5.59,"647,499.00","3,619,519.41","3,619,519.41",Materials,6476542,AU000000RRL8,S64765423,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WOR,WORLEYPARSONS LTD,Equity,0.17,8.60,"410,655.00","3,531,633.00","3,531,633.00",Energy,6562474,AU000000WOR2,S65624744,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MTS,METCASH LTD,Equity,0.17,2.73,"1,289,529.00","3,520,414.17","3,520,414.17",Consumer Staples,B0744W4,AU000000MTS0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BOQ,BANK OF QUEENSLAND LTD,Equity,0.17,6.07,"578,839.00","3,513,552.73","3,513,552.73",Financials,6076243,AU000000BOQ8,S60762432,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SBM,ST BARBARA LTD,Equity,0.16,3.68,"886,548.00","3,262,496.64","3,262,496.64",Materials,6317072,AU000000SBM8,S63170724,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+DOW,DOWNER EDI LTD,Equity,0.15,4.26,"756,709.00","3,223,580.34","3,223,580.34",Industrials,6465573,AU000000DOW2,S64655731,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CGF,CHALLENGER LTD,Equity,0.15,4.44,"722,184.00","3,206,496.96","3,206,496.96",Financials,6726300,AU000000CGF5,S67263004,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IGO,INDEPENDENCE GROUP LTD,Equity,0.15,5.15,"603,757.00","3,109,348.55","3,109,348.55",Materials,6439567,AU000000IGO4,S64395676,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+HVN,HARVEY NORMAN HOLDINGS LTD,Equity,0.15,3.58,"856,604.00","3,066,642.32","3,066,642.32",Consumer Discretionary,6173508,AU000000HVN7,S61735080,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SOL,WASHINGTON H SOUL PATTINSON & COMP,Equity,0.15,20.43,"149,282.00","3,049,831.26","3,049,831.26",Energy,6821807,AU000000SOL3,S68218072,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BPT,BEACH ENERGY LTD,Equity,0.14,1.47,"2,061,432.00","3,019,997.88","3,019,997.88",Energy,6088204,AU000000BPT9,S60882040,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IEL,IDP EDUCATION PTY LTDINARY,Equity,0.14,14.03,"212,587.00","2,982,595.61","2,982,595.61",Consumer Discretionary,BDB6DD1,AU000000IEL5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SCP,SHOPPING CENTRES AUSTRALASIA PROPE,Equity,0.14,2.20,"1,352,156.00","2,974,743.20","2,974,743.20",Real Estate,B8K7J65,AU000000SCP9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ORA,ORORA LTD,Equity,0.14,2.42,"1,228,580.00","2,973,163.60","2,973,163.60",Materials,BH4TCW7,AU000000ORA8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BRG,BREVILLE GROUP LTD,Equity,0.14,24.44,"121,335.00","2,965,427.40","2,965,427.40",Consumer Discretionary,6158709,AU000000BRG2,S61587093,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SVW,SEVEN GROUP HOLDINGS LTD,Equity,0.14,17.21,"168,397.00","2,898,112.37","2,898,112.37",Industrials,B432QW4,AU000000SVW5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RWC,RELIANCE WORLDWIDE CORPORATION LTD,Equity,0.14,2.84,"1,005,434.00","2,855,432.56","2,855,432.56",Industrials,BD1DM79,AU000000RWC7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TNE,TECHNOLOGY ONE LTD,Equity,0.14,8.50,"333,714.00","2,836,569.00","2,836,569.00",Information Technology,6302410,AU000000TNE8,S63024103,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+LNK,LINK ADMINISTRATION HLDG PTY LTD,Equity,0.13,4.13,"675,066.00","2,788,022.58","2,788,022.58",Information Technology,BYZBCY3,AU000000LNK2,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SGR,THE STAR ENTERTAINMENT GROUP LTD,Equity,0.13,2.64,"1,050,685.00","2,773,808.40","2,773,808.40",Consumer Discretionary,BD5ZR98,AU000000SGR6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CIM,CIMIC LTD,Equity,0.13,22.58,"121,722.00","2,748,482.76","2,748,482.76",Industrials,BX17Q13,AU000000CIM7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NHF,NIB HOLDINGS LTD,Equity,0.13,4.64,"581,570.00","2,698,484.80","2,698,484.80",Financials,B28ZM60,AU000000NHF0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NEC,NINE ENTERTAINMENT CO HOLDINGS LTD,Equity,0.13,1.42,"1,866,243.00","2,650,065.06","2,650,065.06",Communication,BGQV183,AU000000NEC4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SLR,SILVER LAKE RESOURCES LTD,Equity,0.12,2.33,"1,107,348.00","2,580,120.84","2,580,120.84",Materials,B28RMY4,AU000000SLR6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BWP,BWP TRUST,Equity,0.12,3.90,"638,356.00","2,489,588.40","2,489,588.40",Real Estate,6127453,AU000000BWP3,S61274536,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WPR,WAYPOINT REIT STAPLED UNITS LTD,Equity,0.12,2.74,"895,205.00","2,452,861.70","2,452,861.70",Real Estate,BLBQ285,AU0000088064,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CLW,CHARTER HALL LONG WALE REIT STAPLE,Equity,0.12,4.42,"550,559.00","2,433,470.78","2,433,470.78",Real Estate,BDB46J2,AU000000CLW0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NSR,NATIONAL STORAGE REIT STAPLED UNIT,Equity,0.12,1.92,"1,259,360.00","2,411,674.40","2,411,674.40",Real Estate,BGP6479,AU000000NSR2,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BAP,BAPCOR LTD,Equity,0.11,5.68,"416,750.00","2,367,140.00","2,367,140.00",Consumer Discretionary,BLD2CY7,AU000000BAP9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IRE,IRESS LTD,Equity,0.11,10.58,"221,910.00","2,347,807.80","2,347,807.80",Information Technology,6297497,AU000000IRE2,S62974977,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+VOC,VOCUS GROUP LTD,Equity,0.11,2.92,"789,800.00","2,306,216.00","2,306,216.00",Communication,B3WS5W9,AU000000VOC6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+VEA,VIVA ENERGY GROUP LTD,Equity,0.11,1.66,"1,361,412.00","2,253,136.86","2,253,136.86",Energy,BYQM3N1,AU0000016875,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MP1,MEGAPORT LTD,Equity,0.11,13.73,"163,734.00","2,248,067.82","2,248,067.82",Information Technology,BZ5ZWZ3,AU000000MP15,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CSR,CSR LTD,Equity,0.10,3.50,"617,255.00","2,160,392.50","2,160,392.50",Materials,6238645,AU000000CSR5,S62386453,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IFL,IOOF HOLDINGS LTD,Equity,0.10,5.13,"416,714.00","2,137,742.82","2,137,742.82",Financials,6714394,AU000000IFL2,S67143941,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CMW,CROMWELL PROPERTY GROUP STAPLED UN,Equity,0.10,0.89,"2,394,926.00","2,119,509.51","2,119,509.51",Real Estate,6225476,AU000000CMW8,S62254768,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PRU,PERSEUS MINING LTD,Equity,0.10,1.44,"1,465,121.00","2,102,448.64","2,102,448.64",Materials,B02FBC1,AU000000PRU3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NAN,NANOSONICS LTD,Equity,0.10,6.34,"329,063.00","2,086,259.42","2,086,259.42",Health Care,B1WF979,AU000000NAN9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MSB,MESOBLAST LTD,Equity,0.10,3.35,"621,474.00","2,081,937.90","2,081,937.90",Health Care,B04SF48,AU000000MSB8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IPH,IPH LTD,Equity,0.10,7.74,"266,269.00","2,060,922.06","2,060,922.06",Industrials,BS7K5S1,AU000000IPH9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+HLS,PRIMARY HEALTH CARE LTD,Equity,0.10,3.13,"654,283.00","2,047,905.79","2,047,905.79",Health Care,BFZYRL1,AU0000033359,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GOR,GOLD ROAD RESOURCES LTD,Equity,0.10,1.85,"1,106,210.00","2,046,488.50","2,046,488.50",Materials,B15F5K1,AU000000GOR5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PMV,PREMIER INVESTMENTS LTD,Equity,0.10,16.35,"123,138.00","2,013,306.30","2,013,306.30",Consumer Discretionary,6699781,AU000000PMV2,S66997818,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ELD,ELDERS LTD,Equity,0.10,10.07,"198,513.00","1,999,025.91","1,999,025.91",Consumer Staples,6357852,AU000000ELD6,S63578520,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CQR,CHARTER HALL RETAIL UNITS,Equity,0.09,3.16,"621,830.00","1,964,982.80","1,964,982.80",Real Estate,6225595,AU000000CQR9,S62255955,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PPT,PERPETUAL LTD,Equity,0.09,32.08,"59,861.00","1,920,340.88","1,920,340.88",Financials,6682394,AU000000PPT9,S66823949,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+IVC,INVOCARE LTD,Equity,0.09,10.25,"183,218.00","1,877,984.50","1,877,984.50",Consumer Discretionary,6715267,AU000000IVC8,S67152678,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CNU,CHORUS LTD,Equity,0.09,6.99,"267,997.00","1,873,299.03","1,873,299.03",Communication,B54F6S5,NZCNUE0001S2,--,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+PDL,PENDAL GROUP LTD,Equity,0.09,5.75,"322,873.00","1,856,519.75","1,856,519.75",Financials,BFY6LL6,AU0000009789,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+VUK,VIRGIN MONEY UK CDI PLC,Equity,0.09,1.69,"1,101,184.00","1,855,495.04","1,855,495.04",Financials,BJXCLP7,AU0000064966,--,ASX - All Markets,United Kingdom,Australian Dollar,Australian Dollar
+PNV,POLYNOVO LTD,Equity,0.09,2.22,"828,169.00","1,838,535.18","1,838,535.18",Health Care,BSJBZM6,AU000000PNV0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+LYC,LYNAS CORPORATION LTD,Equity,0.09,2.02,"888,266.00","1,794,297.32","1,794,297.32",Materials,6121176,AU000000LYC6,S61211769,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ARB,ARB CORPORATION CORP LTD,Equity,0.08,19.00,"92,366.00","1,754,954.00","1,754,954.00",Consumer Discretionary,BWV03W5,AU000000ARB5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+FLT,FLIGHT CENTRE TRAVEL GROUP LTD,Equity,0.08,10.28,"166,297.00","1,709,533.16","1,709,533.16",Consumer Discretionary,6352147,AU000000FLT9,S63521470,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+RSG,RESOLUTE MINING LTD,Equity,0.08,1.21,"1,408,695.00","1,704,520.95","1,704,520.95",Materials,6410636,AU000000RSG6,S64106362,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WHC,WHITEHAVEN COAL LTD,Equity,0.08,1.54,"1,090,113.00","1,678,774.02","1,678,774.02",Energy,B1XQXC4,AU000000WHC8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NUF,NUFARM LTD,Equity,0.08,4.07,"403,032.00","1,640,340.24","1,640,340.24",Materials,6335331,AU000000NUF3,S63353312,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BKW,BRICKWORKS LTD,Equity,0.08,16.52,"97,584.00","1,612,087.68","1,612,087.68",Materials,6315593,AU000000BKW4,S63155931,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SGM,SIMS METAL MANAGEMENT LTD,Equity,0.08,7.84,"204,924.00","1,606,604.16","1,606,604.16",Materials,B0LCW75,AU000000SGM7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+INA,INGENIA COMMUNITIES GROUP STAPLED,Equity,0.08,4.36,"364,664.00","1,589,935.04","1,589,935.04",Real Estate,B84GSC7,AU000000INA9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NWS,NEWS CORPORATION CLASS B VOTING CD,Equity,0.07,18.14,"85,995.00","1,559,949.30","1,559,949.30",Communication,BD7SZP7,AU000000NWS2,--,ASX - All Markets,United States,Australian Dollar,Australian Dollar
+SUL,SUPER RETAIL GROUP LTD,Equity,0.07,7.80,"197,686.00","1,541,950.80","1,541,950.80",Consumer Discretionary,B01C7R0,AU000000SUL0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+OBL,OMNI BRIDGEWAY LTD,Equity,0.07,4.84,"311,342.00","1,506,895.28","1,506,895.28",Financials,BM95XH7,AU0000082489,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CGC,COSTA GROUP HOLDINGS LTD,Equity,0.07,2.91,"516,088.00","1,501,816.08","1,501,816.08",Consumer Staples,BYSGKW9,AU000000CGC2,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ING,INGHAMS GROUP LTD,Equity,0.07,3.51,"426,265.00","1,496,190.15","1,496,190.15",Consumer Staples,BZCNHW2,AU000000ING6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PTM,PLATINUM ASSET MANAGEMENT LTD,Equity,0.07,3.83,"385,429.00","1,476,193.07","1,476,193.07",Financials,B1XK7G8,AU000000PTM6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SPK,SPARK NEW ZEALAND LTD,Equity,0.07,4.44,"326,639.00","1,450,277.16","1,450,277.16",Communication,6881500,NZTELE0001S4,S68815000,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+JHG,JANUS HENDERSON GROUP CDI PLC,Equity,0.07,29.91,"48,192.00","1,441,422.72","1,441,422.72",Financials,BYW5KD3,AU000000JHG6,--,ASX - All Markets,United States,Australian Dollar,Australian Dollar
+EML,EML PAYMENTS LTD,Equity,0.07,3.12,"459,157.00","1,432,569.84","1,432,569.84",Information Technology,B7ZGK34,AU000000EML7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CCP,CREDIT CORP GROUP LTD,Equity,0.07,16.96,"82,365.00","1,396,910.40","1,396,910.40",Financials,6287658,AU000000CCP3,S62876586,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+UMG,UNITED MALT GROUP LTD,Equity,0.07,4.08,"337,964.00","1,378,893.12","1,378,893.12",Consumer Staples,BLHVB76,AU0000079691,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BVS,BRAVURA SOLUTIONS LTD,Equity,0.07,4.45,"309,527.00","1,377,395.15","1,377,395.15",Information Technology,BZBHBM3,AU000000BVS9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+APE,AP EAGERS LTD,Equity,0.07,6.32,"217,802.00","1,376,508.64","1,376,508.64",Consumer Discretionary,6296201,AU000000APE3,S62962014,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+FBU,FLETCHER BUILDING LTD,Equity,0.06,3.17,"429,390.00","1,361,166.30","1,361,166.30",Materials,6341617,NZFBUE0001S0,S63416176,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+CIP,CENTURIA INDUSTR UNITS,Equity,0.06,3.27,"412,126.00","1,347,652.02","1,347,652.02",Real Estate,BD31FD8,AU000000CIP0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CUV,CLINUVEL PHARMACEUTICALS LTD,Equity,0.06,23.40,"57,081.00","1,335,695.40","1,335,695.40",Health Care,6328405,AU000000CUV3,S63284053,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+URW,UNIBAIL-RODAMCO-WESTFIELD CDI,Equity,0.06,4.10,"324,361.00","1,329,880.10","1,329,880.10",Real Estate,BDDR365,AU0000009771,--,ASX - All Markets,France,Australian Dollar,Australian Dollar
+ASB,AUSTAL LTD,Equity,0.06,3.26,"406,018.00","1,323,618.68","1,323,618.68",Industrials,6137162,AU000000ASB3,S61371621,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NWL,NETWEALTH GROUP LTD,Equity,0.06,11.67,"111,558.00","1,301,881.86","1,301,881.86",Financials,BF52PL1,AU000000NWL7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PME,PRO MEDICUS LTD,Equity,0.06,24.77,"52,227.00","1,293,662.79","1,293,662.79",Health Care,6292782,AU000000PME8,S62927827,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ABP,ABACUS PROPERTY GROUP STAPLED UNIT,Equity,0.06,2.77,"465,815.00","1,290,307.55","1,290,307.55",Real Estate,6565707,AU000000ABP9,S65657074,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CKF,COLLINS FOODS LTD,Equity,0.06,9.45,"135,345.00","1,279,010.25","1,279,010.25",Consumer Discretionary,B6QCFP1,AU000000CKF7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WEB,WEBJET LTD,Equity,0.06,2.89,"433,242.00","1,252,069.38","1,252,069.38",Consumer Discretionary,6015815,AU000000WEB7,S60158151,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GUD,GUD HOLDINGS LTD,Equity,0.06,11.50,"108,135.00","1,243,552.50","1,243,552.50",Consumer Discretionary,6358004,AU000000GUD2,S63580047,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BGA,BEGA CHEESE LTD,Equity,0.06,4.58,"264,303.00","1,210,507.74","1,210,507.74",Consumer Staples,B56CQJ5,AU000000BGA8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SFR,SANDFIRE RESOURCES LTD,Equity,0.06,5.40,"222,394.00","1,200,927.60","1,200,927.60",Materials,6739739,AU000000SFR8,S67397398,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BKL,BLACKMORES LTD,Equity,0.06,73.68,"16,180.00","1,192,142.40","1,192,142.40",Consumer Staples,6102267,AU000000BKL7,S61022679,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GOZ,GROWTHPOINT PROPERTIES AUSTRALIA R,Equity,0.06,3.25,"365,905.00","1,189,191.25","1,189,191.25",Real Estate,B1Y9BC8,AU000000GOZ8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NEA,NEARMAP LTD,Equity,0.05,2.24,"505,633.00","1,132,617.92","1,132,617.92",Information Technology,B9B4FJ7,AU000000NEA8,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MND,MONADELPHOUS GROUP LTD,Equity,0.05,9.55,"118,098.00","1,127,835.90","1,127,835.90",Industrials,6600471,AU000000MND5,S66004714,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GNC,GRAINCORP CLASS A LTD,Equity,0.05,3.86,"283,065.00","1,092,630.90","1,092,630.90",Consumer Staples,6102331,AU000000GNC9,S61023313,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ABC,ADELAIDE BRIGHTON LTD,Equity,0.05,2.29,"464,027.00","1,062,621.83","1,062,621.83",Materials,6006886,AU000000ABC7,S60068863,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+BIN,BINGO INDUSTRIES LTD,Equity,0.05,1.97,"532,463.00","1,046,289.80","1,046,289.80",Industrials,BZ0VW78,AU000000BIN7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+PRN,AUSDRILL LTD,Equity,0.05,1.17,"888,808.00","1,039,905.36","1,039,905.36",Materials,BKRKNV4,AU0000061897,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SIQ,SMARTGROUP CORPORATION LTD,Equity,0.05,6.12,"166,483.00","1,018,875.96","1,018,875.96",Industrials,BNB5WS6,AU000000SIQ4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+TGR,TASSAL GROUP LTD,Equity,0.05,3.69,"265,030.00","977,960.70","977,960.70",Consumer Staples,6710701,AU000000TGR4,S67107011,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NWH,NRW HOLDINGS LTD,Equity,0.04,1.69,"542,362.00","913,879.97","913,879.97",Industrials,B23XW70,AU000000NWH5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+CTD,CORPORATE TRAVEL MANAGEMENT LTD,Equity,0.04,8.53,"103,664.00","884,253.92","884,253.92",Consumer Discretionary,B3R1D52,AU000000CTD3,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+DHG,DOMAIN HOLDINGS AUSTRALIA LTD,Equity,0.04,3.13,"279,883.00","876,033.79","876,033.79",Communication,BF17Y13,AU000000DHG9,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+WSA,WESTERN AREAS LTD,Equity,0.04,2.70,"324,400.00","875,880.00","875,880.00",Materials,6261243,AU000000WSA9,S62612437,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+COE,COOPER ENERGY LTD,Equity,0.04,0.42,"2,065,179.00","867,375.18","867,375.18",Energy,6515616,AU000000COE2,S65156168,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+ORE,OROCOBRE LTD,Equity,0.04,2.87,"299,594.00","859,834.78","859,834.78",Materials,B293GJ4,AU000000ORE0,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+MMS,MCMILLAN SHAKESPEARE LTD,Equity,0.04,9.34,"91,937.00","858,691.58","858,691.58",Industrials,B00G1Q0,AU000000MMS5,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+GEM,G8 EDUCATION LTD,Equity,0.04,0.80,"1,069,328.00","855,462.40","855,462.40",Consumer Discretionary,B296314,AU000000GEM7,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SKC,SKY CITY ENTERTAINMENT GROUP LTD,Equity,0.04,2.29,"373,440.00","855,177.60","855,177.60",Consumer Discretionary,6151311,NZSKCE0001S2,S61513115,ASX - All Markets,New Zealand,Australian Dollar,Australian Dollar
+GWA,GWA GROUP LTD,Equity,0.04,2.54,"335,559.00","852,319.86","852,319.86",Industrials,6392949,AU000000GWA4,S63929491,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SSM,SERVICE STREAM LTD,Equity,0.04,1.80,"464,581.00","836,245.80","836,245.80",Industrials,B04KLG8,AU000000SSM2,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+AVH,AVITA THERAPEUTICS CDI INC,Equity,0.04,6.30,"132,395.00","834,088.50","834,088.50",Health Care,6386113,AU000000AVH4,S63861132,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+NHC,NEW HOPE CORPORATION LTD,Equity,0.04,1.39,"531,521.00","738,814.19","738,814.19",Energy,6681960,AU000000NHC7,S66819608,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+OML,OOH!MEDIA LTD,Equity,0.03,0.80,"756,206.00","604,964.80","604,964.80",Communication,BSXN8D0,AU000000OML6,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+SXL,SOUTHERN CROSS MEDIA GROUP LTD,Equity,0.03,0.17,"3,371,580.00","573,168.60","573,168.60",Communication,B5M7371,AU000000SXL4,--,ASX - All Markets,Australia,Australian Dollar,Australian Dollar
+JPSFT,CASH COLLATERAL AUD JPSFT,Cash Collateral and Margins,0.03,100.00,"558,050.00","560,978.37","560,978.37",Cash and/or Derivatives,--,--,--,--,Australia,Australian Dollar,Australian Dollar
+XPU0,SPI 200 SEP 20,Futures,0.00,"5,970.00",44.00,0.00,"6,567,000.00",Cash and/or Derivatives,--,--,--,Asx - Trade24,--,Australian Dollar,Australian Dollar
+MARGIN_AUD,FUTURES AUD MARGIN BALANCE,Cash Collateral and Margins,0.00,0.00,0.00,0.00,0.00,Cash and/or Derivatives,--,--,--,--,Australia,Australian Dollar,Australian Dollar
+,,,,,,,,,,,,,,,
+Total allocation percentages may not equal 100% due to rounding or omissions of holdings of less than 1%. Information on certain fund holdings or less than 1% many not be widely available and may not be included in the table of holdings shown.All dollar amounts are in U.S. dollars.  All dates are in US Eastern Standard Time.,,,,,,,,,,,,,,,
